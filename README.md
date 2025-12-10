@@ -46,8 +46,8 @@
 
 ## 🌟 Featured Projects
 
-- 🎯 **Project 1** –  
-- 🎨 **Project 2** –  
+- 🎯 **Project 1** –  READ-MIND
+- 🎨 **Project 2** –  LEARNING-AI
 - 🚀 **Project 3** –  
 
 > Tell me your project names and I’ll write strong descriptions for each.

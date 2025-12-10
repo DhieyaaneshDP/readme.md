@@ -1,5 +1,5 @@
 <!-- Banner or Introduction -->
-<h1 align="center">Hi 👋, I'm DP</h1>
+<h1 align="center">Hi 👋, I'm DHIEYAANESH</h1>
 <h3 align="center">Full-Stack Developer | UI/UX Designer | College Student</h3>
 
 ---
